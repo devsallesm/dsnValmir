@@ -20,6 +20,7 @@ vendasLiquido = vendasBruto - totalTaxas - custoFixo - impostos
 print(f'o valor bruto das vendas é: {vendasBruto}')
 print(f'a taxa total do cartão X é: {taxaCartaoX}')
 print(f'a taxa total do cartão Y é: {taxaCartaoY}')
+print(f'a taxa total do PIX é: {taxaPIX}')
 print(f'o valor total dos impostos é: {impostos}')
 print(f'o valor total dos custos fixos é: {custoFixo}')
 print(f'o valor Liquido das vendas é: {vendasLiquido}')
